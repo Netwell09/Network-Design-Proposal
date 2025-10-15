@@ -1,8 +1,8 @@
 # Network-Design-Proposal
 
 [![Group: 6](https://img.shields.io/badge/Group-6-blue)](https://github.com/Group6/INFO6033-NDP)  
-[![Course: INFO6033](https://img.shields.io/badge/Course-INFO--6033-green)](Network Design Proposal.pdf)  
-[![Submitted: Fall 2024](https://img.shields.io/badge/Submitted-Fall%202024-yellow)](Network Design Proposal.pdf)
+[![Course: INFO6033](https://img.shields.io/badge/Course-INFO--6033-green)
+[![Submitted: Fall 2024](https://img.shields.io/badge/Submitted-Fall%202024-yellow)
 
 This repository contains the Network Design Proposal for North American Widget Inc. (NAWI), developed by Group 6 for INFO6033 in Fall 2024. The PDF outlines the integration of GCWC (Canada) and GAWC (US) networks post-merger, featuring SD-WAN/SDN solutions, Zero Trust security, cloud strategies, failover designs, VPN setups, and future expansion plans. Created for educational purposes with fictional merger details.
 
